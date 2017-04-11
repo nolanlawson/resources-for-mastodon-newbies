@@ -33,7 +33,7 @@ Only hashtags are searchable. This is to prevent potential harassment.
 
 ### You can have multiple accounts on multiple instances
 
-You're not locked in to one instance; many people maintain multiple "alts." It's a good idea to link your alts in your account profiles so that people know to follow you on both.
+You're not locked in to one instance; many people maintain multiple "alts." It's a good idea to link to your alts in your account profiles so that people know to follow you on both.
 
 ### Not all favs (likes), boosts (retweets), and replies are necessarily shown
 
