@@ -21,7 +21,7 @@ Interactive tool for finding a good Mastodon instance to join that fits your tas
 
 List of known Mastodon instances, manually curated.
 
-### [Mastodon-Twitter Bridge](https://mastodon-bridge.herokuapp.com)
+### [Mastodon Bridge](https://mastodon-bridge.herokuapp.com)
 
 Tool for finding your Twitter friends on Mastodon, also allows your Twitter friends to find you.
 
