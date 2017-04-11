@@ -50,7 +50,7 @@ DMs work by being private to everyone @-mentioned in the message. To avoid a pot
 
 ### Content Warnings can hide text
 
-Content Warnings (CWs) are good for trigger warnings, sensitive topics like politics, topics that may not be of general inteterest, and concealing the punchline to a joke.
+Content Warnings (CWs) are good for trigger warnings, sensitive topics, topics that may not be of general interest, and hiding the punchline to a joke.
 
 When you reply to a toot with a CW, the "CW" button is automatically selected, so if you want to reply without the same CW you will need to de-select it.
 
