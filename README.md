@@ -46,7 +46,7 @@ You can click the date to open the toot in a new tab and see the full list of fa
 
 ### If you mention a user in a DM, they see that DM
 
-DMs work by being private to everyone @-mentioned in the message. To avoid a potentially embarrassment situation, be sure to use "at-username" or something similar when you want to talk privately about someone else.
+DMs work by being private to everyone @-mentioned in the message. To avoid a potentially embarrassing situation, be sure to use "at-username" or something similar when you want to talk privately about someone else.
 
 ### Content Warnings can hide text
 
