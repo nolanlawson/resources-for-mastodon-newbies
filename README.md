@@ -25,6 +25,14 @@ List of known Mastodon instances, manually curated.
 
 Tool for finding your Twitter friends on Mastodon, also allows your Twitter friends to find you.
 
+### [Mastodon Network Overview](https://mnm.eliotberriot.com/dashboard/db/mastodon-network-overview)
+
+Live charts with some data on the overall Mastodon network.
+
+### [Mastodon information](http://sp3r4z.fr/mastodon/)
+
+More live statistics on various Mastodon instances.
+
 ## Things that may surprise you about Mastodon
 
 ### You can't do full-text search
