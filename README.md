@@ -1,7 +1,7 @@
 Resources for Mastodon newbies
 =====
 
-A partial list of articles and information to get you started with [Mastodon](http://mastodon.social/).
+A partial list of links and tips to help you get started with [Mastodon](http://mastodon.social/).
 
 ## Articles and guides
 
