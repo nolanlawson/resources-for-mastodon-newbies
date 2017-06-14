@@ -9,9 +9,17 @@ A partial list of links and tips to help you get started with [Mastodon](http://
 
 A great user guide outlining some of the UI differences with Twitter and also explaining some of the in-jokes and culture.
 
+### [Toot How-To : Intro to Mastodon](https://medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)
+
+Another great introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
+
 ### [Mastodon: like Twitter, but open and federated](http://2ality.com/2017/04/mastodon.html)
 
 Technical overview for those interested in how Mastodon works under the hood.
+
+### [joinmastodon.org](https://joinmastodon.org/)
+
+Official portal for getting started with Mastodon: community support, finding an instance, swag, etc.
 
 ### [tooter.today](http://tooter.today/)
 
