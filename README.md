@@ -53,6 +53,7 @@ Favs/boosts/replies are only shown if they come from someone who is is either:
 
 1. a member of your instance, or
 2. a remote user followed by at least one person in your instance.
+3. (some other minor exceptions, such as domain suspension, but you get the gist)
 
 You can click the date to open the toot in a new tab and see the full list of favs/boosts/replies. Any URL (e.g. to a toot) can be pasted into the Search box and then you can reply/fav/boost it.
 
