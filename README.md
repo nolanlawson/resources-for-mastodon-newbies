@@ -11,27 +11,31 @@ A great user guide outlining some of the UI differences with Twitter and also ex
 
 ### [Toot How-To : Intro to Mastodon](https://medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)
 
-Another great introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
+Another nice introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
+
+### [Mastodon makes the internet feel like home again](https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again)
+
+Great article on what Mastodon feels like from a cultural and social point of view. Answers the question of "why Mastodon."
 
 ### [Mastodon: like Twitter, but open and federated](http://2ality.com/2017/04/mastodon.html)
 
 Technical overview for those interested in how Mastodon works under the hood.
 
+# Tools
+
 ### [joinmastodon.org](https://joinmastodon.org/)
 
-Official portal for getting started with Mastodon: community support, finding an instance, swag, etc.
+Official portal for getting started with Mastodon: community support, finding an instance, swag, etc. Also has a list of known instances.
 
-### [tooter.today](http://tooter.today/)
+### [instances.social](https://instances.mastodon.xyz/)
 
-Interactive tool for finding a good Mastodon instance to join that fits your tastes and interests.
-
-### [instances.mastodon.xyz](https://instances.mastodon.xyz/)
-
-List of known Mastodon instances, manually curated.
+List of known Mastodon instances, manually curated. Also has an interactive wizard to find an instance to fit your tastes.
 
 ### [Mastodon Bridge](https://mastodon-bridge.herokuapp.com)
 
 Tool for finding your Twitter friends on Mastodon, also allows your Twitter friends to find you.
+
+# Data visualizations
 
 ### [Mastodon Network Overview](https://mnm.eliotberriot.com/dashboard/db/mastodon-network-overview)
 
