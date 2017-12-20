@@ -21,7 +21,7 @@ Great article on what Mastodon feels like from a cultural and social point of vi
 
 Technical overview for those interested in how Mastodon works under the hood.
 
-# Tools
+## Tools
 
 ### [joinmastodon.org](https://joinmastodon.org/)
 
@@ -35,7 +35,7 @@ List of known Mastodon instances, manually curated. Also has an interactive wiza
 
 Tool for finding your Twitter friends on Mastodon, also allows your Twitter friends to find you.
 
-# Data visualizations
+## Data visualizations
 
 ### [Mastodon Network Overview](https://mnm.eliotberriot.com/dashboard/db/mastodon-network-overview)
 
