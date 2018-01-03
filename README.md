@@ -13,6 +13,10 @@ A great user guide outlining some of the UI differences with Twitter and also ex
 
 Another nice introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
 
+### [Meet Mastodon](https://webinista.com/updates/meet-mastodon/)
+
+A no-nonsense introduction to Mastodon and the fediverse, and the tradeoffs relative to Twitter.
+
 ### [Mastodon makes the internet feel like home again](https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again)
 
 Great article on what Mastodon feels like from a cultural and social point of view. Answers the question of "why Mastodon."
