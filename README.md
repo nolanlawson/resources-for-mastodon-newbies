@@ -45,10 +45,6 @@ Tool for finding your Twitter friends on Mastodon, also allows your Twitter frie
 
 Live charts with some data on the overall Mastodon network.
 
-### [Radar](https://radar.amberstone.digital)
-
-More cool visualizations of Mastodon instances and the fediverse.
-
 ### [Mastodon information](http://sp3r4z.fr/mastodon/)
 
 More live statistics on various Mastodon instances.
