@@ -17,6 +17,10 @@ Another nice introduction for Mastodon newbies, with tips on choosing an instanc
 
 A no-nonsense introduction to Mastodon and the fediverse, and the tradeoffs relative to Twitter.
 
+### [A brief introduction to Mastodon ](https://gist.github.com/joyeusenoelle/74f6e6c0f349651349a0df9ae4582969)
+
+More great tips for Mastodon newcomers, including some of the recent in-jokes and history.
+
 ### [Mastodon makes the internet feel like home again](https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again)
 
 Great article on what Mastodon feels like from a cultural and social point of view. Answers the question of "why Mastodon."
