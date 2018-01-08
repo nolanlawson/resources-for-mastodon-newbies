@@ -5,21 +5,25 @@ A partial list of links and tips to help you get started with [Mastodon](http://
 
 ## Articles and guides
 
-### [What I wish I knew before joining Mastodon](https://medium.com/@qinaliu/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b)
-
-A great user guide outlining some of the UI differences with Twitter and also explaining some of the in-jokes and culture.
-
-### [Toot How-To : Intro to Mastodon](https://medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)
-
-Another nice introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
-
 ### [Meet Mastodon](https://webinista.com/updates/meet-mastodon/)
 
 A no-nonsense introduction to Mastodon and the fediverse, and the tradeoffs relative to Twitter.
 
-### [A brief introduction to Mastodon ](https://gist.github.com/joyeusenoelle/74f6e6c0f349651349a0df9ae4582969)
+### [A brief introduction to Mastodon](https://gist.github.com/joyeusenoelle/74f6e6c0f349651349a0df9ae4582969)
 
 More great tips for Mastodon newcomers, including some of the recent in-jokes and history.
+
+### [Yet another explanation of Mastodon](https://blog.rowan.website/2018/01/08/yet-another-explanation-of-mastodon/)
+
+One of the more concise and starightforward explanations of what Mastodon is and how it works at a high level.
+
+### [Toot How-To : Intro to Mastodon](https://medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)
+
+Nice introduction for Mastodon newbies, with tips on choosing an instance and what sets Mastodon apart.
+
+### [What I wish I knew before joining Mastodon](https://medium.com/@qinaliu/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b)
+
+A great user guide outlining some of the UI differences with Twitter and also explaining some of the in-jokes and culture.
 
 ### [Mastodon makes the internet feel like home again](https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again)
 
