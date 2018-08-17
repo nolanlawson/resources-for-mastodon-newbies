@@ -9,7 +9,7 @@ A partial list of links and tips to help you get started with [Mastodon](http://
 
 A no-nonsense introduction to Mastodon and the fediverse, and the tradeoffs relative to Twitter.
 
-### [A brief introduction to Mastodon](https://gist.github.com/joyeusenoelle/74f6e6c0f349651349a0df9ae4582969)
+### [An Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon/)
 
 More great tips for Mastodon newcomers, including some of the recent in-jokes and history.
 
